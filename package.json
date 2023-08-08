@@ -2,7 +2,7 @@
   "name": "assessment-coalition-technologies",
   "version": "1.0.0",
   "description": "A mini frontend challenge during a hiring process",
-  "author": "Forest",
+  "author": "Conglin Pu",
   "license": "UNLICENSED",
   "engines": {
     "node": ">=6.13.0"
