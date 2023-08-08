@@ -1,7 +1,7 @@
 {
-  "name": "nexus",
+  "name": "assessment-coalition-technologies",
   "version": "1.0.0",
-  "description": "the nexus of forest apps",
+  "description": "A mini frontend challenge during a hiring process",
   "author": "Forest",
   "license": "UNLICENSED",
   "engines": {
