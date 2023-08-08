@@ -5,7 +5,7 @@
   "author": "Conglin Pu",
   "license": "UNLICENSED",
   "engines": {
-    "node": "18.x"
+    "node": "=16.16.0"
   },
   "scripts": {
     "build": "webpack",
@@ -15,8 +15,9 @@
     "test": ""
   },
   "dependencies": {
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2"
+    "express": "^4.18.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",
